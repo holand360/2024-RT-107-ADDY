@@ -1,0 +1,80 @@
+#!/bin/bash
+   x=2
+   y=$x*3
+   z=$x**$y
+   echo $z#!/bin/bash
+   x=2
+   y=$x*3
+   z=$x**$y
+   echo $z
+
+
+https://github.com/holand360/2024-RT-107-ADDY
+
+
+on Control Resouces:
+Data Version Control - A Data Engineering Best Practice You Must Adopt Data Version Control
+Introduction to Data Version Control | by David Farrugia | Towards Data Science
+Centralized vs Distributed Version Control: Which One Should We Choose? - GeeksforGeeks
+https://medium.com/edureka/git-vs-github-67c511d09d3e
+
+Git ResouceS:  Introduction to Git and GitHub | Coursera
+Oh My Git!
+Git - GUI Clients
+Learn Git Branching
+How to Write a Good README File for Your GitHub Project
+https://www.geeksforgeeks.org/git-flow-vs-github-flow/
+
+Git VS GitHub:
+https://www.monarch-innovation.com/gitlab-vs-github
+https://levelup.gitconnected.com/github-vs-gitlab-choosing-the-right-version-control-system-891df5873fcf
+https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github
+https://devmountain.com/blog/git-vs-github-whats-the-difference/
+
+import time
+
+def main():
+    while True:
+        # Perform some CPU-intensive task
+        for _ in range(1000000):
+            pass
+
+        # Simulate memory usage
+        some_list = [0] * 1000000
+
+        # Sleep for a while to control loop speed
+        time.sleep(1)
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+
+Data Version Control - A Data Engineering Best Practice You Must Adopt Data Version Control
+Introduction to Data Version Control | by David Farrugia | Towards Data Science
+Centralized vs Distributed Version Control: Which One Should We Choose? - GeeksforGeeks
+https://medium.com/edureka/git-vs-github-67c511d09d3e
+
+Git ResouceS:  Introduction to Git and GitHub | Coursera
+Oh My Git!
+Git - GUI Clients
+Learn Git Branching
+How to Write a Good README File for Your GitHub Project
+https://www.geeksforgeeks.org/git-flow-vs-github-flow/
+
+Git VS GitHub:
+https://www.monarch-innovation.com/gitlab-vs-github
+https://levelup.gitconnected.com/github-vs-gitlab-choosing-the-right-version-control-system-891df5873fcf
+https://www.simplilearn.com/tutorials/git-tutorial/git-vs-github
+https://devmountain.com/blog/git-vs-github-whats-the-difference/
+https://www.linkedin.com/pulse/git-vs-github-whats-difference-mithin-dev-a/
+
+
+
+
+
+
